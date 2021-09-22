@@ -3635,9 +3635,9 @@ jano100.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 
-//////////////// ODkwMTk0NzA1MTkzNzYyODI3.MTYzMjMwOTQ1MzU0Mw==.c9cb1f785e8162405f664190aa93a0f8
+//////////////// 
 
-jano.login("");
+jano.login("ODkwMTk0NzA1MTkzNzYyODI3.MTYzMjMwOTQ1MzU0Mw==.c9cb1f785e8162405f664190aa93a0f8");
 jano2.login("");
 jano3.login("");
 jano4.login("");
